@@ -17,10 +17,22 @@ int main() {
     // bool berisi boolean yang hanya menyimpan kondisi benar atau salah (true or false)
     bool e = true;
 
+    // deklarasi multi variable
+    int f = 5, g = 6, h = 50;
+
+    /*
+        penamaan identifier variabel harus memenuhi beberapa syarat:
+        - nama bisa berisi huruf, digit, dan underscore
+        - nama harus dimulai dengan huruf atau underscore
+        - nama bersifat case sensitive 
+        - nama tidak boleh berisi spasi atau spesial character seperti !, #, %,dsb
+        - keyword C++ seperti int tidak bisa digunakan sebagai nama
+    */
+
     cout << "a = " << a << endl;
     cout << "b = " << b << endl;
     cout << "c = " << c << endl;
     cout << "d = " << d << endl;
     cout << "e = " << e << endl;
-   
+    cout << "f g h = " << f << " " << g << " " << h << endl;    
 }
