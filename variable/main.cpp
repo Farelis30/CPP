@@ -41,3 +41,4 @@ int main() {
     cout << "f g h = " << f << " " << g << " " << h << endl;    
     cout << "i j k = " << i << " " << j << " " << k << endl;    
 }
+
