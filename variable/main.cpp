@@ -19,6 +19,10 @@ int main() {
 
     // deklarasi multi variable
     int f = 5, g = 6, h = 50;
+    int i, j, k;
+    i = 50;
+    j = 60;
+    k = 70;
 
     /*
         penamaan identifier variabel harus memenuhi beberapa syarat:
@@ -35,4 +39,5 @@ int main() {
     cout << "d = " << d << endl;
     cout << "e = " << e << endl;
     cout << "f g h = " << f << " " << g << " " << h << endl;    
+    cout << "i j k = " << i << " " << j << " " << k << endl;    
 }
