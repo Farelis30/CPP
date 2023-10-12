@@ -1,5 +1,5 @@
 # CPP
-Kumpulan kode kode C++
+Kumpulan kode untuk belajar bahasa pemrograman C++
 
 ![cpp_logo](https://github.com/Farelis30/CPP/assets/90368003/8df85bcb-23e2-4fa4-8ba9-5faa685e97ed)
 
